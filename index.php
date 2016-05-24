@@ -73,7 +73,7 @@
 	    </div>
 	  </div>
 	</section>
-	<section class="content-5 bkg-clouds">
+	<section id="founder" class="content-5 bkg-clouds">
 	  	<div class='container'>
 	    	<div class='row content-wrapper'>
 		      <div class='col-md-6 content'>
