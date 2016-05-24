@@ -21,6 +21,7 @@
 	<style type="text/css">
 		h1, h2, h3, h4, h5 { font-family: 'Nixie One', serif; }
 		body { font-family: 'Ledger', sans-serif; }
+		.header-1 .navbar .navbar-brand { font-size: 22px; }
 	</style>
 </head>
 <body>
