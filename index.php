@@ -81,7 +81,7 @@
 	    	</div>
 	  	</div>
 	</section>
-	<section class="content-8 text-center" style="background-color: #672265; color: #fff;">
+	<section class="content-8 text-center" style="background-color: #672265; color: #fff; display: none;">
 	  <div class="container">
 	    <div class="row">
 	      <div class="col-md-12">
